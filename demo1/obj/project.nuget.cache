@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a6k37E3KnVvCHKLeYl0h8qDQcQME3JwEpHSQRpFaHQXF8EK/2h0X2BjAdTlszNiBaaJSvMb16XMFO9vUODOluQ==",
+  "dgSpecHash": "JRvH+3cLp8XLa5KNgNl6nhHd4TChsybOQP08y+PxNYoU5jCJaEmLKqAG9Gz1Dda9V46N0wgz9tf5RE4WJ/H76w==",
   "success": true,
   "projectFilePath": "C:\\DEV\\VSWorkspace\\demo1\\demo1\\demo1.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\Виталий\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Виталий\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Виталий\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Виталий\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\Виталий\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Виталий\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Виталий\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
